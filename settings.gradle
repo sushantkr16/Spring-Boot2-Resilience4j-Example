@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-Boot2-Resilience4j-Example'
+include 'teams'
+include 'idea'
+

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: idea
+
+
+server:
+  port: 9083
+  servlet.context-path: /sk
